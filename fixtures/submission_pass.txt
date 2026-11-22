@@ -1,0 +1,1 @@
+We shipped RuleLens today. Specs and tests: https://example.org/specs — thanks @team
